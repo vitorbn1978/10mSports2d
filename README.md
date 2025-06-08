@@ -50,6 +50,17 @@ The app expects `.trc` files exported from Sports2D. The files should:
 
 ---
 
+## ⚖️ Recommended Parameters
+
+For best results, we recommend the following default parameters:
+- **Start threshold (limiar início):** `1.5 m/s`
+- **Time before start (delta_t_retro):** `0.3 s`
+- **End margin (margem_final):** `0.3 m/s`
+
+These can be adjusted via the app interface based on the quality and noise of your data.
+
+---
+
 ## 👥 Authors
 
 **Vitor Bertoli Nascimento, PhD**  
